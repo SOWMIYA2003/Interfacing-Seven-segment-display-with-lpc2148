@@ -96,6 +96,8 @@ int main(void)
 ### After Stimulation :
 ![op](./10b.png)
 ![op](./10d.png)
+### Circuit Diagram :
+![op](./10pdf.png)
 
 ### Result :
 LED seven segment display is interfaced and displayed alpha numeric characters 
